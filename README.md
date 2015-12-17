@@ -1,4 +1,4 @@
-#Data Incubator Project Submission
+###  A project submission to the Data Incubator programming challenge
 
 I would like to propose a project to help non-profit organizations such as colleges, universities, or hospitals to find the relevant set of potential donors (public charities and private foundations) to financially support their operations and research projects. 
 
